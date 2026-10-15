@@ -1,4 +1,4 @@
-# Nhật ký tiến độ phân hệ của Khánh (`khanh`)
+﻿# Nhật ký tiến độ phân hệ của Khánh (`khanh`)
 
 - Thành viên phụ trách: Khánh
 - Nhánh: `khanh`
@@ -45,3 +45,13 @@
 - `src/services/customerService.ts`: Nghiệp vụ `KH004`.
 - `src/services/employeeService.ts`: Nghiệp vụ `NV001`.
 - `src/screens/home/index.tsx`: Giao diện React Native trực quan, đầy đủ biểu mẫu thao tác, thông báo modal cho toàn bộ 10 tính năng.
+
+---
+
+### Bàn giao & Nghiệm thu ngày 15/10/2026
+- **Thành viên:** Khánh (Khanh123453)
+- **Nhánh riêng:** khanh (hoàn toàn độc lập, không gộp code nhóm)
+- **Tiến độ:** Hoàn tất 10/10 tính năng phân hệ (84 Story Points)
+- **Kiểm thử tự động:** 39/39 tests passed
+- **Giao diện:** React Native 7 tabs tại src/screens/home/index.tsx
+- **Sẵn sàng báo cáo:** Đầy đủ nghiệp vụ, lưu dữ liệu thực tế, kiểm tra ràng buộc và soft-delete.
